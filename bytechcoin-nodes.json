@@ -1,0 +1,23 @@
+﻿{
+  "nodes": [
+    {
+      "name": "'Yetkin' bytech node",
+      "url": "178.32.178.27",
+      "port": 11127,
+      "ssl": false
+    },
+    {
+      "name": "'Yetkin-2' bytech node",
+      "url": "5.39.6.152",
+      "port": 11127,
+      "ssl": false
+    },
+    {
+      "name": "'Contabo-GER' public node",
+      "url": "167.86.77.96",
+      "port": 11127,
+      "ssl": false
+    },
+    }
+  ]
+}
